@@ -1,0 +1,7 @@
+Changes LaTeX Beamer presentation color schemes via Makefile. Useful in
+situations in which a beamer does not support all used colors. 
+
+- all colors are defined in the Makefile
+- text will be higlighted with \ha{<text>} and \hb{<text>}
+
+
